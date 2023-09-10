@@ -1,0 +1,4 @@
+name: LandsRestart
+version: '${version}'
+main: ru.landsproject.landsrestart.LandsRestart
+api-version: '1.19'

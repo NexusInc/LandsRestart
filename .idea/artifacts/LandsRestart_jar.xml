@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LandsRestart:jar">
+    <output-path>$USER_HOME$/Desktop/nexusgrief/plugins</output-path>
+    <root id="archive" name="LandsRestart.jar">
+      <element id="module-output" name="LandsRestart.main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/LandsAPI.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>

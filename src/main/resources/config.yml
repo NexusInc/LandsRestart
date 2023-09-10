@@ -1,0 +1,8 @@
+messages:
+  use: "Используйте /rdelay <sec> для перезагрузки"
+  scheduled: "Вы успешно начначили перезагрузку через: <duration>"
+  later: "Осталось <duration> до перезагрузки!"
+settings:
+  command: "rl confirm"
+  sounds:
+    later: BLOCK_NOTE_BLOCK_BIT
